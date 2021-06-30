@@ -10,4 +10,4 @@ I'm LiaoYu, an iOS and Web developer from China.
 
 ### GitHub Stats
 
-![LiaoYu's GitHub stats](https://stats-henna.vercel.app/api?username=liaoyu0114&hide=contribs,prs)
+![LiaoYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaoyu0114&hide=contribs,stars)
